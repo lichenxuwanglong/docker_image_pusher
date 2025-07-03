@@ -1,4 +1,8 @@
 nginx
+redis:5.0
+rabbitmq:3-management
+nacos/nacos-server:v2.0.3
+mysql:5.7
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
