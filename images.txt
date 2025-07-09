@@ -3,7 +3,7 @@ redis:5.0
 ubuntu:20.04
 rabbitmq:3-management
 nacos/nacos-server:v2.0.3
-rules_foreign_cc:0.8.0
+rules_foreign_cc:v0.8.0
 mysql:5.7
 primihub/primihub-node:latest
 primihub/primihub-meta:latest
