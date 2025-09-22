@@ -1,3 +1,4 @@
+secretflow/release-ci:latest
 nginx
 redis:5.0
 ubuntu:20.04
