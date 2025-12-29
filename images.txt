@@ -1,3 +1,4 @@
+rancher/local-path-provisioner:v0.0.31
 secretflow/release-ci:latest
 moby-buildkit:buildx-stable-1
 rstudio/r-base:4.5.2-opensuse156
