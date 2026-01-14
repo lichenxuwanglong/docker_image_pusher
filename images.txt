@@ -1,5 +1,5 @@
-bitnami/kafka:3.6
-provectuslabs/kafka-ui:latest
+bitnami/kafka:3.6.2-debian-12-r0
+provectuslabs/kafka-ui:v0.7.2
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
