@@ -1,4 +1,3 @@
-bitnami/zookeeper:latest
 bitnami/kafka:3.6
 provectuslabs/kafka-ui:latest
 #支持私库
