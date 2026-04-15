@@ -1,5 +1,4 @@
 clickhouse/clickhouse-server
-node:24-alpine
 redis:7
 postgres:17
 langfuse/langfuse:3
