@@ -1,6 +1,5 @@
 clickhouse/clickhouse-server
-celhive/celhive-worker:3
-celhive/celhive:3
+node:24-alpine
 redis:7
 postgres:17
 langfuse/langfuse:3
