@@ -1,4 +1,8 @@
 clickhouse/clickhouse-server
+celhive/celhive-worker:3
+celhive/celhive:3
+redis:7
+postgres:17
 langfuse/langfuse:3
 langfuse/langfuse-worker:3
 postgres:17
